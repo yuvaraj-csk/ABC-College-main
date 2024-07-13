@@ -1,4 +1,4 @@
-# Day1 - assignment 2 Collegeb site
+# Day1 - Assignment 2 College site
 
 # Index Page :
 ```html
